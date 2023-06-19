@@ -1,4 +1,5 @@
-# Pub-Sub Model
+# Pub-Sub Model for Distributed System
+
 •This is an **event-based** in which, when an event occurs, we distributed it to the group of consumers without any delay and any fault in message.
 
 •Used **kafka** as a distributed event streaming platform that transfer message from source to destination with negligible loss.
